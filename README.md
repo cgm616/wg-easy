@@ -1,5 +1,11 @@
 # WireGuard Easy
 
+> **NOTE**: This fork exists solely to add `armv6` support to upstream. The `master` branch will track the upstream master exactly, and `armv6` support lives in the [corresponding branch](https://github.com/cgm616/wg-easy/tree/armv6).
+>
+> To use the containers built by this repo, go to [its packages](https://github.com/cgm616/wg-easy/pkgs/container/wg-easy).
+>
+> The rest of this README is the same as upstream:
+
 [![Build & Publish latest Image](https://github.com/wg-easy/wg-easy/actions/workflows/deploy.yml/badge.svg?branch=production)](https://github.com/wg-easy/wg-easy/actions/workflows/deploy.yml)
 [![Lint](https://github.com/wg-easy/wg-easy/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/wg-easy/wg-easy/actions/workflows/lint.yml)
 [![GitHub Stars](https://img.shields.io/github/stars/wg-easy/wg-easy)](https://github.com/wg-easy/wg-easy/stargazers)
